@@ -32,28 +32,3 @@ Patrzyłem na problemy, które często pojawiają się, gdy ludzie zaczynają u�
 * @basarat's intro to @typescriptlang is still one of the best going (if not THE best) [link](https://twitter.com/stevealee/status/953953255968698368)
 * 
 * This is sweet! So many #typescript goodies! [link](https://twitter.com/pauliescanlon/status/989898852474998784)
-
-## Rozpocznij
-Jeśli jesteś tutaj, aby przeczytać książkę online, [rozpocznij](https://basarat.gitbook.io/typescript/getting-started).
-
-## Tłumaczenia
-Książka jest całkowicie darmowa, więc możesz kopiować i wklejać, co chcesz, bez konieczności uzyskania zgody. Jeśli masz tłumaczenie i chciałbyś żebym tutaj dodał do niego link, [stwórz PR](https://github.com/basarat/typescript-book/edit/master/README.md). Dostępne języki:
-* [filipiński](https://github.com/themarshann/typescript-book-fil)
-* [włoski](https://github.com/TizioFittizio/typescript-book)
-* [chiński](https://github.com/jkchao/typescript-book-chinese)
-* [rosyjski](https://github.com/etroynov/typescript-book)
-* [portugalski](https://github.com/overlineink/typescript-book)
-* [japoński](https://github.com/yohamta/typescript-book)
-* [hiszpański](https://github.com/melissarofman/typescript-book)
-* [koreański](https://github.com/radlohead/typescript-book)
-* [francuski](https://github.com/HachemiH/typescript-book)
-* [polski](https://github.com/mbiesiad/typescript-book/tree/pl_PL)
-
-## Inne opcje
-Możesz także pobrać jeden z formatów Epub, Mobi lub PDF z karty [akcje](https://github.com/basarat/typescript-book/actions) klikając w najnowszą wersję kompilacji. Pliki znajdziesz w sekcji przedmiotów.
-
-## Specjalne podziękowania
-Wszystkim niesamowitym [współtwórcom](https://github.com/basarat/typescript-book/graphs/contributors) 🌹
-
-## Podziel się
-Podziel się z innymi przesyłając adres URL: https://basarat.gitbook.io/typescript/
